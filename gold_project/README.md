@@ -119,6 +119,4 @@ CREATE SCHEMA IF NOT EXISTS gold;
 ```
 
 
-## License
 
-This project is intended for learning and portfolio purposes.

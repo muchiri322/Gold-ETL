@@ -118,11 +118,6 @@ If necessary, create it with:
 CREATE SCHEMA IF NOT EXISTS gold;
 ```
 
-## Security
-
-Never commit API keys, passwords, database connection strings, `.env` files, or other credentials to GitHub.
-
-If credentials were previously exposed in source code or a notebook, rotate them before using the project publicly.
 
 ## License
 
